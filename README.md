@@ -17,7 +17,7 @@ git clone https://github.com/ValpakLabs/RN_Cool/
 
 Install NPM deps
 ```
-npm install
+cd RN_Cool && npm install
 ```
 
 3. Start XCode, open the project under the `/ios` directory and run it. 
