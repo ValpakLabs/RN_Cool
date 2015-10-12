@@ -10,12 +10,12 @@ npm install react-native-cli
 
 See the official [Getting Started](https://facebook.github.io/react-native/docs/getting-started.html#content) docs for more info on getting set up.  
 
-1. Clone the repo
+Clone the repo
 ```
 git clone https://github.com/ValpakLabs/RN_Cool/
 ```
 
-2. Install NPM deps
+Install NPM deps
 ```
 npm install
 ```
